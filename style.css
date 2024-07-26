@@ -16,6 +16,7 @@ body{ /*estilizacao do corpo da pagina*/
     }
 }*/
 
+
 /* INICIO DO CABEÇALHO */
 
 .cabecalho-menu{ /*estilizacao do span no cabecalho*/
@@ -75,6 +76,7 @@ body{ /*estilizacao do corpo da pagina*/
 }
 /*  FIM DO CABEÇALHO */
 
+
 /*INÍCIO DO BANNER*/
 .banner{
     background: var(--degrade);
@@ -107,6 +109,7 @@ body{ /*estilizacao do corpo da pagina*/
     color: var(--branco);
 }
 /*FIM DO BANNER*/
+
 
 /*INÍCIO DO CARROSSEL*/
 .carrossel-titulo {
